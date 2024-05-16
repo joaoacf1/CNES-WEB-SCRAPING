@@ -4,7 +4,6 @@ Raspagem de dados no site do CNES (Cadastro Nacional de Estabelecimentos de Saú
 
 ![CNES Web Scraping](https://github.com/joaoacf1/CNES-WEB-SCRAPING/assets/72554649/cbc8718f-c632-4677-b4ba-b88ad566f5fb)
 
-
 Tecnologias usadas:
 
 - Selenium

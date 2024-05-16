@@ -1,6 +1,10 @@
 # CNES-WEB-SCRAPING
 Raspagem de dados no site do CNES (Cadastro Nacional de Estabelecimentos de Saúde) no município de Caratinga - MG
 
+
+![CNES Web Scraping](https://github.com/joaoacf1/CNES-WEB-SCRAPING/assets/72554649/cbc8718f-c632-4677-b4ba-b88ad566f5fb)
+
+
 Tecnologias usadas:
 
 - Selenium
@@ -15,4 +19,3 @@ Link do site: https://cnes.datasus.gov.br/
 
 Nesse exemplo usamos o Município de Caratinga - MG para uma melhor visualização dos dados, porém conseguimos realizar o mesmo procedimento em qualquer outro município e estado, testes foram feitos até mesmo em Belo Horizonte e São Paulo.
 
-![CNES Web Scraping](https://github.com/joaoacf1/CNES-WEB-SCRAPING/assets/72554649/cbc8718f-c632-4677-b4ba-b88ad566f5fb)
